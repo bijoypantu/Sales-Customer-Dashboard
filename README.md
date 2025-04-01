@@ -54,9 +54,9 @@ The customer dashboard aims to provide an overview of customer data, trends and 
 | Color           | Hex Code  |
 |---------------|----------|
 | Black         | `#1A1A1A` |
-| Dark Gray     | `#ADADAD` |
-| Pacific Blue  | `#1DA2D0` |
-| Burnt Orange  | `#FF5500` |
+| Gray     | `#ADADAD` |
+| Blue  | `#1DA2D0` |
+| Orange  | `#FF5500` |
 
 ## 📌Dashboard Preview
 #### Sales Dashboard
@@ -67,7 +67,7 @@ The customer dashboard aims to provide an overview of customer data, trends and 
 
 ## 📌 How to Use the Dashboard
 - Navigate between **Sales and Customer Dashboard**.
-- Click on the **fliter icon** to refine results based on Year, Products and Location.
+- Click on the **fliter icon** on the top right corner to refine results based on Year, Products and Location.
 - Select **specific chart positions** to filter the dashboard accordingly.
 ---
 
