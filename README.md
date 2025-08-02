@@ -60,9 +60,9 @@ The customer dashboard aims to provide an overview of customer data, trends and 
 
 ## 📌Dashboard Preview
 #### Sales Dashboard
-![Sales](https://github.com/bijoypantu/Customer-Sales-Dashboard/blob/main/Sales%20Dashboard.png?raw=true)
+![Sales](https://github.com/bijoypantu/Sales-Customer-Dashboard/blob/main/Icons%20&%20Images/Sales%20Dashboard%20Preview.png?raw=true)
 #### Customer Dashboard
-![Customer](https://github.com/bijoypantu/Customer-Sales-Dashboard/blob/main/Customer%20Dashboard.png?raw=true)
+![Customer](https://github.com/bijoypantu/Sales-Customer-Dashboard/blob/main/Icons%20&%20Images/Customer%20Dashboard%20Preview.png?raw=true)
 #### **Interact With the Dashboard Here :** [Sales & Customer Dashboard](https://public.tableau.com/app/profile/bijoy.pantu/viz/SalesCustomerDashboard_17342639389560/SalesDashboard).
 
 ## 📌 How to Use the Dashboard
