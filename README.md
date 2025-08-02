@@ -63,7 +63,7 @@ The customer dashboard aims to provide an overview of customer data, trends and 
 ![Sales](https://github.com/bijoypantu/Customer-Sales-Dashboard/blob/main/Sales%20Dashboard.png?raw=true)
 #### Customer Dashboard
 ![Customer](https://github.com/bijoypantu/Customer-Sales-Dashboard/blob/main/Customer%20Dashboard.png?raw=true)
-#### **Dashboard Link:** https://public.tableau.com/app/profile/bijoy.pantu/viz/SalesCustomerDashboard_17342639389560/SalesDashboard
+#### **Interact With the Dashboard Here :** [Sales & Customer Dashboard](https://public.tableau.com/app/profile/bijoy.pantu/viz/SalesCustomerDashboard_17342639389560/SalesDashboard).
 
 ## 📌 How to Use the Dashboard
 - Navigate between **Sales and Customer Dashboard**.
@@ -74,6 +74,6 @@ The customer dashboard aims to provide an overview of customer data, trends and 
 ## 📌 Contact & Support
 For questions or support, reach out via:
 
-📩 : bijoypantu176@gmail.com  
-**in** : https://www.linkedin.com/in/bijoypantu/  
-𝕏 : https://x.com/BijoyPantu
+[Email](bijoypantu176@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/bijoypantu/)  
+[𝕏](https://x.com/BijoyPantu)
